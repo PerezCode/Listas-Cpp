@@ -1,0 +1,6 @@
+﻿  Lista.cpp
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Lista.cpp(21): error C3867: 'Nodo::Get_liga': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Lista.cpp(21): error C2440: '=': no se puede realizar la conversión de 'Nodo *(__cdecl Nodo::* )(void)' a 'Nodo *'
+  C:\Users\david\Desktop\Taller-visual\Taller\Taller\Lista.cpp(21): note: No existe un contexto en el que sea posible realizar esta conversión
+  Nodo.cpp
+  Taller.cpp

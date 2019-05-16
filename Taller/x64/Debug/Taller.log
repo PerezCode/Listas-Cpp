@@ -1,0 +1,14 @@
+﻿  Lista.cpp
+  Nodo.cpp
+  Taller.cpp
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(118): warning C4129: '_': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(119): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(119): warning C4129: '|': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(119): warning C4129: '_': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(120): warning C4129: ' ': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(120): warning C4129: '/': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(120): warning C4129: '|': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(121): warning C4129: '_': secuencia de escape de carácter no reconocida
+C:\Users\david\Desktop\Taller-visual\Taller\Taller\Taller.cpp(122): warning C4129: '/': secuencia de escape de carácter no reconocida
+  Generando código...
+  Taller.vcxproj -> C:\Users\david\Desktop\Taller-visual\Taller\x64\Debug\Taller.exe
